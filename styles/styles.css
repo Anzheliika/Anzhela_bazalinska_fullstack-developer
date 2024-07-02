@@ -141,6 +141,10 @@ ol {
   margin-bottom: 30px;
 }
 
+.work-place {
+  margin-bottom: 2rem;
+}
+
 .work-position {
   font-style: normal;
   font-weight: 700;
@@ -213,6 +217,10 @@ ol {
   line-height: 17px;
   color: #000000;
   margin-bottom: 10px;
+}
+
+.management a{
+  color:#000000
 }
 
 .period-education {
